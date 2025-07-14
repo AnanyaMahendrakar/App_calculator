@@ -16,13 +16,6 @@ This is a simple and interactive **Age Calculator** built using HTML, CSS, and J
 
 ---
 
-## 🚀 Live Demo
-
-You can try the calculator here (replace with your GitHub Pages link if deployed):  
-**[Live Demo](#)**
-
----
-
 ## 🧩 Technologies Used
 
 - **HTML5** for structure  
@@ -32,11 +25,11 @@ You can try the calculator here (replace with your GitHub Pages link if deployed
 ---
 
 ## 📂 Project Structure
+
 ├── index.html # Main HTML file
 ├── style.css # CSS styles
 ├── script.js # JavaScript logic
 └── TimeDate.png # Project screenshot or logo
-
 
 
 ---
@@ -51,16 +44,10 @@ You can try the calculator here (replace with your GitHub Pages link if deployed
 
 ---
 
-## 📸 Preview
-
-![UI Preview](./TimeDate.png)
-
----
-
 ## 📌 How to Run Locally
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/age-calculator.git
 
-Open index.html in your browser.
+2.Open index.html in your browser.   
