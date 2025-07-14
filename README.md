@@ -2,8 +2,6 @@
 
 This is a simple and interactive **Age Calculator** built using HTML, CSS, and JavaScript. It allows users to enter their date of birth and calculates their exact age in years, months, and days — along with additional details like total days, weeks, and hours lived.
 
-![Screenshot](./TimeDate.png)
-
 ---
 
 ## 🛠️ Features
@@ -48,6 +46,6 @@ This is a simple and interactive **Age Calculator** built using HTML, CSS, and J
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/age-calculator.git
+   https://github.com/AnanyaMahendrakar/App_calculator.git
 
 2.Open index.html in your browser.   
